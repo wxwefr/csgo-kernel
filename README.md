@@ -1,11 +1,12 @@
 # csgo-kernel
+
 A super simple kernel project made while learning game hacking. Using the GuidedHacking series,
 
-I won't be updating this since it was made just to learn about using kernel. 
+## I won't be updating this since it was made just to learn about using kernel. 
 
-How to use 
+### How to use 
 
-Change offsets
+Change csgo offsets using hazedumper
 
 Build Project
 
